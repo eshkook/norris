@@ -1,2 +1,3 @@
 *.png
 **/*.png
+matplotlib_lib/*.png
